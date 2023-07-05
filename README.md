@@ -3,7 +3,7 @@
 A atualização de dados no JDBC envolve estabelecer uma conexão com o banco de dados, 
 criar uma instrução SQL de atualização usando PreparedStatement
 
-## Métodos utilizados:
+## API:
 o Connection <br>
 o PreparedStatement 
 
